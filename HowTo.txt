@@ -1,0 +1,2 @@
+1. get the demo_app from git
+2. create schema for demo_app with relevant credentials
